@@ -653,7 +653,7 @@
 /* Three Columns                                                                 */
 /*********************************************************************************/
 
-	#three-column
+	#projects
 	{
 		overflow: hidden;
 		margin-top: 5em;
@@ -661,14 +661,14 @@
 		text-align: center;
 	}
 	
-	#three-column h2
+	#projects h2
 	{
 		margin: 1em 0em;
 		font-size: 1.5em;
 		font-weight: 700;
 	}
 	
-	#three-column .icon
+	#projects .icon
 	{
 		position: relative;
 		display: block;
@@ -685,33 +685,33 @@
 		
 	}
 		
-	#three-column #tbox1,
-	#three-column #tbox2,
-	#three-column #tbox3
+	#projects #tbox1,
+	#projects #tbox2,
+	#projects #tbox3
 	{
 		float: left;
 		width: 320px;
 		padding: 80px 40px 80px 40px;
 	}
 	
-	#three-column .title
+	#projects .title
 	{
 		text-align: center;
 	}
 	
-	#three-column .title h2
+	#projects .title h2
 	{
 		font-size: 1.60em;
 	}
 	
-	#three-column .title .byline
+	#projects .title .byline
 	{
 		padding-top: 0.50em;
 		font-size: 0.90em;
 		color: #858585;
 	}
 
-	#three-column .arrow-down
+	#projects .arrow-down
 	{
 		border-top-color: #292929;
 	}
